@@ -1,8 +1,14 @@
 ## Welcome to Claire's generic webpage!
 
-You can use the [editor on GitHub](https://github.com/Aliensinthesky/aliensinthesky.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[LinkedIn](https://www.linkedin.com/in/claire-armstrong/)
+[AngelList](https://angel.co/claire-armstrong-3?public_profile=1)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# EA at CodeCombat
+
+# Projects
+[Hackathon Web Page](http://hackathon.codecombat.com/)
+[Github](https://github.com/Aliensinthesky)
+
 
 ### Markdown
 
