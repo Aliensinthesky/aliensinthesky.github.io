@@ -1,8 +1,22 @@
-## Welcome to Claire's generic webpage!
+## Welcome to Claire's webpage!
 
-You can use the [editor on GitHub](https://github.com/Aliensinthesky/aliensinthesky.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an Executive Assistant based in SF, California. This site is a personal project to learn some coding. Keep reading for some cat pics. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[LinkedIn](https://www.linkedin.com/in/claire-armstrong/)
+
+[AngelList](https://angel.co/claire-armstrong-3?public_profile=1)
+
+## Projects
+[Hackathon Web Page](http://hackathon.codecombat.com/)
+
+[Github](https://github.com/Aliensinthesky)
+
+## Interests
+I'm fascinated by people operations and corporate responsibility–particularly at startups and mid-sized companies. I enjoy learning about culture-building and innovative HR practices. 
+
+I also love to adventure outdoors: rock hounding, hiking, trail running, and skateboarding are some of my favorite pasttimes.
+
+
 
 ### Markdown
 
