@@ -1,12 +1,12 @@
 ## Welcome to Claire's generic webpage!
 
 [LinkedIn](https://www.linkedin.com/in/claire-armstrong/)
+
 [AngelList](https://angel.co/claire-armstrong-3?public_profile=1)
 
-# EA at CodeCombat
-
-# Projects
+## Projects
 [Hackathon Web Page](http://hackathon.codecombat.com/)
+
 [Github](https://github.com/Aliensinthesky)
 
 
