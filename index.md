@@ -1,4 +1,6 @@
-## Welcome to Claire's generic webpage!
+## Welcome to Claire's webpage!
+
+I'm an Executive Assistant based in SF, California. This site is a personal project to learn some coding. Keep reading for some cat pics. 
 
 [LinkedIn](https://www.linkedin.com/in/claire-armstrong/)
 
@@ -8,6 +10,12 @@
 [Hackathon Web Page](http://hackathon.codecombat.com/)
 
 [Github](https://github.com/Aliensinthesky)
+
+## Interests
+I'm fascinated by people operations and corporate responsibility–particularly at startups and mid-sized companies. I enjoy learning about culture-building and innovative HR practices. 
+
+I also love to adventure outdoors: rock hounding, hiking, trail running, and skateboarding are some of my favorite pasttimes.
+
 
 
 ### Markdown
