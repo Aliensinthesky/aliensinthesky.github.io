@@ -2,14 +2,10 @@
 
 I'm an Executive Assistant based in SF, California. This site is a personal project to learn some coding. Keep reading for some cat pics. 
 
-[LinkedIn](https://www.linkedin.com/in/claire-armstrong/)
-
-[AngelList](https://angel.co/claire-armstrong-3?public_profile=1)
+[LinkedIn](https://www.linkedin.com/in/claire-armstrong/) / [AngelList](https://angel.co/claire-armstrong-3?public_profile=1)
 
 ## Projects
-[Hackathon Web Page](http://hackathon.codecombat.com/)
-
-[Github](https://github.com/Aliensinthesky)
+[Hackathon Web Page](http://hackathon.codecombat.com/) / [Github](https://github.com/Aliensinthesky)
 
 ## Interests
 I'm fascinated by people operations and corporate responsibility–particularly at startups and mid-sized companies. I enjoy learning about culture-building and innovative HR practices. 
